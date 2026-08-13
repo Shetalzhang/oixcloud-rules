@@ -359,3 +359,23 @@ routing = 1
 0, 218.78.7.16/32
 0, 5.5.5.5/32
 0, 98.126.27.164/32
+
+# 夸克网盘/浏览器
+2, quark.cn
+2, quarkdrive.cn
+2, quarkcdn.com
+2, quarkpan.com
+2, 115.com
+2, 115cdn.com
+2, 115cdn.net
+2, 115img.com
+2, 116cd.cn
+2, 116cd.com
+2, 116cd.net
+2, anxia.com
+2, sq.cc
+2, anvdl.com
+2, 115cos.com
+2, 115vod.com
+2, 115it.com
+2, 115mail.com
