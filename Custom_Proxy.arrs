@@ -1,0 +1,19 @@
+name = Custom Proxy
+routing = 0
+2, 7pzzv.us
+2, arduino.cc
+2, clientservices.googleapis.com
+2, cloudsync-prod.s3.us-east-1.amazonaws.com
+2, dmhy.org
+2, googleapis.cn
+2, hoyolab.com
+2, ip.sb
+2, ipify.org
+2, mtalk.google.com
+2, onedrive.live.com
+2, platformio.org
+2, services.googleapis.cn
+2, stun.playstation.net
+2, xn--ngstr-lra8j.com
+0, 1.0.0.1/32
+0, 1.1.1.1/32
